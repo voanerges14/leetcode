@@ -10,3 +10,4 @@ Cargo.lock
 **/*.rs.bk
 /frequency_sort/frequency_sort.iml
 /leetcode.iml
+/frequency_sort/target/
