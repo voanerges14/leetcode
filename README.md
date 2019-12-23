@@ -4,6 +4,6 @@ My leetcode solutions on Rust
 ### Contains:
 
 1. [Frequency sort](https://github.com/voanerges14/leetcode/blob/develop/frequency_sort/src/main.rs)
-2. [Rotate matrix]()
+2. [Rotate matrix](https://github.com/voanerges14/leetcode/blob/develop/rotate_image/src/main.rs)
 
 
